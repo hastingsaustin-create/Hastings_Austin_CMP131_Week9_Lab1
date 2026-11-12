@@ -2,7 +2,7 @@
 #CMP 131 86520
 #Week 9
 #Lab 1
-#Kinetic Energy
+#celsius
 #12 NOV 2026
 print("Celcius")
 print("-------")
