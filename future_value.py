@@ -9,9 +9,10 @@ print("------------")
 
 def future_value(p, i, m):
     f = p * (1 + i)**m
+    return f
     
 def display(f):
-    print("The future value is: ", f)
+    print(f"The future value is: , ${f:.2f}")
 
 def main():
     p = float(input("Enter the present value: "))

@@ -44,7 +44,7 @@ Response:
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:
+Response: I learned I need to make sure i put return when I want the value back otherwise it says: "None" and I'll go crazy looking for the problem.
 
 ## Summary
 
